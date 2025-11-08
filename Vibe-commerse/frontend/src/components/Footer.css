@@ -1,0 +1,8 @@
+.site-footer{
+  margin-top: 3rem;
+  padding: 1rem 0;
+  text-align: center;
+  color: #6b7280;
+}
+
+[data-theme="dark"] .site-footer { color: #9aa6b2; }
